@@ -17,7 +17,7 @@ This mini-suite contains 3 smart agents:
 
 ### ✨ How It Works:
 - Accepts a user symptom (e.g., "I have a headache")
-- 
+ 
 - Matches it to a product and explains the reason
 
 ### 🧠 Example:
