@@ -1,4 +1,4 @@
-# -Agentic-SDk-Assignments
+# Agentic-SDk-Assignments
 
 This mini-suite contains 3 smart agents:
 
